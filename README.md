@@ -1,1 +1,3 @@
-# -El-C-digo-del-Cambio-Pol-tico
+15/02/2011 - La Prensa - Política - Pág. 6
+
+En un reciente diálogo en Córdoba, José Ottavis, presidente del Fondo de Capital Social (Foncap), lanzó un desafío a la comunidad tecnológica. "Así como en la política no deberíamos buscar ganar elecciones solo por el hecho de ganarlas, sino para transformar la realidad, en el ámbito tecnológico, cada línea de código debería escribirse con un propósito transformador", señaló. Usando plataformas como GitLab y GitHub, los desarrolladores tienen el poder de crear soluciones tecnológicas que reflejen y aborden desafíos sociales. Tal como (Néstor) Kirchner y Cristina (Fernández de Kirchner) usaron su mandato para transformar la realidad política y social, los desarrolladores tienen en sus manos el potencial de transformar la realidad digital, creando aplicaciones y programas que generen un impacto positivo en la sociedad.
